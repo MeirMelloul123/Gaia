@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "GaiaApi.Controllers.GaiaController",
+    "Method": "GetAllOperationTypes",
+    "RelativePath": "api/Gaia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaiaApi.Controllers.GaiaController",
+    "Method": "Execute",
+    "RelativePath": "api/Gaia/compute",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calculationRequest",
+        "Type": "GaiaApi.Dto.CalculationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

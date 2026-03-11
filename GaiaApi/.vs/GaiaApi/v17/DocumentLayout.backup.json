@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\GaiaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\service\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:service\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\dto\\calculationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:dto\\calculationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\dto\\operationhistoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:dto\\operationhistoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\controllers\\gaiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:controllers\\gaiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\data\\gaiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:data\\gaiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\interface\\ioperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:interface\\ioperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|c:\\repos\\gaiaapi\\migrations\\20260308081337_update_db_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6062CECF-F1C3-433A-8132-E5FEB79E8406}|GaiaApi.csproj|solutionrelative:migrations\\20260308081337_update_db_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationResponse.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Dto\\CalculationResponse.cs",
+              "RelativeDocumentMoniker": "Dto\\CalculationResponse.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Dto\\CalculationResponse.cs",
+              "RelativeToolTip": "Dto\\CalculationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:34:10.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationHistoryResponse.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Dto\\OperationHistoryResponse.cs",
+              "RelativeDocumentMoniker": "Dto\\OperationHistoryResponse.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Dto\\OperationHistoryResponse.cs",
+              "RelativeToolTip": "Dto\\OperationHistoryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:29:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Service\\OperationService.cs",
+              "RelativeDocumentMoniker": "Service\\OperationService.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Service\\OperationService.cs",
+              "RelativeToolTip": "Service\\OperationService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAewGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:40:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOperationService.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Interface\\IOperationService.cs",
+              "RelativeDocumentMoniker": "Interface\\IOperationService.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Interface\\IOperationService.cs",
+              "RelativeToolTip": "Interface\\IOperationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:50:08.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Models\\Operation.cs",
+              "RelativeDocumentMoniker": "Models\\Operation.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Models\\Operation.cs",
+              "RelativeToolTip": "Models\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:41:22.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GaiaController.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Controllers\\GaiaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GaiaController.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Controllers\\GaiaController.cs",
+              "RelativeToolTip": "Controllers\\GaiaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:47:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\repos\\GaiaApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T12:04:12.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GaiaDbContext.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Data\\GaiaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\GaiaDbContext.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Data\\GaiaDbContext.cs",
+              "RelativeToolTip": "Data\\GaiaDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:10:16.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260308081337_update_db_table.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Migrations\\20260308081337_update_db_table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260308081337_update_db_table.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Migrations\\20260308081337_update_db_table.cs",
+              "RelativeToolTip": "Migrations\\20260308081337_update_db_table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:13:37.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\GaiaApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\repos\\GaiaApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:30:01.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
